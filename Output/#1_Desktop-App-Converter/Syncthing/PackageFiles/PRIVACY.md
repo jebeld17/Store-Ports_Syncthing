@@ -1,6 +1,0 @@
-##  Privacy Policy for Syncthing, Microsoft Store remix.
-The "Store Ports" remix of Syncthing is a 100% open-source, independent program which Telemetry data associated with your Windows 10 settings is recorded and sent to Microsoft and the Developer's console within the Partner Center used to publish this app.
-
-If you do not wish to share Windows 10 Telemetry data from this program, access your Diagnostics & Feedback settings on your Windows 10 device under "Settings < Privacy [< Windows permissions] < Diagnostics & Feedback" or enter 'ms-settings:privacy-feedback' in your address bar.
-
-In addition to standard Windows 10 Telemetry data, this program can collect anonymous usage statistics upon request and utilizes discovery protocols and other communication forms outlined at https://docs.syncthing.net/specs/ which may share unique identifiers to help Syncthing transfer your files across networks. Your synced data is never shared with others you don't approve and is encrypted according to default settings.
